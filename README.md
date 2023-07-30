@@ -1,1 +1,1 @@
-# microservices-blog-application
+# Easy-Blog
